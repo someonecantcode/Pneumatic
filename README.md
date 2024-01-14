@@ -1,5 +1,12 @@
-# Pneumatic
-basic arduino pneumatic cylinder program
+# Automated Pneumatic Saw Cutter
 
-upload the Pneumatic.ino file and run the program.
-uses repeaters to send to penumatics
+This uses an Arduino with repeaters to activate pneumatic cylinders, pushing a block of wood to the desired locations.
+
+## How to install & use
+1. Download as zip.
+2. Extract the zip.
+3. Open the Pneumatic.ino file.
+4. Upload the file onto the Arduino in the IDE
+
+   
+
